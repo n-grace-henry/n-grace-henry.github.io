@@ -1,0 +1,33 @@
+---
+title: "Grace Henry"
+image: "grace.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/n_grace_henry"
+  - label: GitHub
+    url: "https://github.com/n-grace-henry"
+  - label: Email
+    url: "henryn98@uw.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Grace is a current Masters student in the Holtgrieve Ecosystem Ecology Lab whose primary research interests include stable isotope ecology, biogeochemistry and Alaskan salmon. Her Masters thesis focuses on using compound specific stable isotope analysis to quantify shifting primary production baselines in the North Pacific. In her free time she can be found skiing, hiking or swimming at Seattle beaches. 
+
+## Education
+
+**University of Washington** | Seattle, WA
+
+M.S. in Aquatic and Fishery Sciences | September 2022 - Present
+
+**University of Washington** | Seattle, WA
+
+B.S. in Environmental Science | September 2017 - June 2021
+
+## Experience
+
+**Alaska Salmon Program** | Field/Laboratory Technician | July 2021 - June 2022
+
+**Holtgrieve Ecosystem Ecology Lab** | Research Assistant | October 2021 - September 2022
